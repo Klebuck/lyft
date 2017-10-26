@@ -1,3 +1,17 @@
-/*
- * Estilos de tu proyecto
- */
+header{
+
+background-image: url(../assets/images/hero.gif);
+background-size: cover;
+
+}
+body{
+	margin: 0px;
+}
+
+.logo1{
+	width: 5%;
+	padding-top: 35px;
+	padding-left:  75px;
+	display: inline-block;
+
+}
